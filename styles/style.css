@@ -37,3 +37,15 @@ body {
     text-decoration: none;
     color: antiquewhite;
 }
+
+#welcome-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 100vh;
+    text-shadow: -3px 0 #d0e8e3, 0 3px #d0e8e3, 3px 0 #d0e8e3, 0 -3px #d0e8e3;
+    background-color:#fed88f;
+}
+
