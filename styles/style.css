@@ -3,6 +3,8 @@
     padding: 0;
 }
 
+
+
 #welcome-section img{
     padding: 50px;
     width: 250px;
@@ -22,7 +24,7 @@ body {
     display: flex;
     justify-content: flex-end;
     position: fixed;
-    background-color: ;
+    background-color:#fed88f ;
     width: 100%;
 }
 .nav-list {
@@ -39,6 +41,7 @@ body {
 }
 
 #welcome-section {
+    
     display: flex;
     flex-direction: column;
     justify-content: center;
@@ -47,6 +50,7 @@ body {
     height: 100vh;
     text-shadow: -3px 0 #d0e8e3, 0 3px #d0e8e3, 3px 0 #d0e8e3, 0 -3px #d0e8e3;
     background-color:#fed88f;
+
 }
 
 #project-list {
@@ -94,7 +98,7 @@ footer {
 
 @media screen {
     body {
-        width: 75%;
+        width: 100%;
 
     }
 }
